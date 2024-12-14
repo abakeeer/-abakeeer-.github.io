@@ -1,0 +1,62 @@
+<!-- markdownlint-disable MD024-->
+# **Change Log** 📂
+
+> All notable changes to the "**BAKED DESIGNS**" repository will be documented in this file.
+
+
+---
+
+## DATE
+
+### Fixed
+
+* Multiple and grammar issues.
+
+## [**1.11.8**] - 2022-08-07
+
+### ADDED
+
+* Multiple typos and grammar issues.
+* From 'cp -r *' to 'cp -r ./*' in the tests, so names with dashes won't become options.
+
+## [**1.11.7**] - 2021-12-05
+
+### Added
+
+* In the main script, removing the bin/ folder, the LICENSE file and the script itself will not prompt errors if there are any problems
+
+## [**1.11.6**] - 2021-12-04
+
+### Added
+
+* Two 'README.md' files at the bin/ and tests/ folder to help describe what the folder purpose is.
+
+## [**1.11.5**] - 2021-11-19
+
+### Fixed
+
+* Some typos in multiple files.
+
+## [**1.11.4**] - 2021-11-01
+
+### Fixed
+
+* Multiple spelling mistakes in the README and CHANGELOG files.
+
+## [**1.11.3**] - 2021-08-03
+
+### Added
+
+* Improved gitignore comments
+
+## [**1.11.2**] - 2021-07-30
+
+### Added
+
+* Git ignored multiple common folder and files.
+
+## [**1.11.1**] - 2021-07-25
+
+### Added
+
+* Simple documentation in the bin/FUNCTION_HELPERS.sh 
