@@ -13,6 +13,8 @@
 	<script src="http://localhost:8080/target/target-script-min.js#anonymous"></script>
 </head>
 <body>
+
+
 	<div class="container">
 <!-- THIS ACTUAL CONTENT BEGINS HERE...this is called a comment. which can only be seen when viewing the source code. This text CANNOT be seen by the browser. Its helpful when you need to place notes, comments or reminders in your code -->
 	<header>
@@ -26,7 +28,7 @@
 		</div>
 		<div class="feature">
 			<h3>Featured Content 1</h3>
-			<p>lorem ipsum dolor amet lorem ipsum dolor ametlorem ipsum dolor ametlorem ipsum dolor ametlorem ipsum dolor ametlorem ipsum dolor ametlorem ipsum dolor ametlorem ipsum.</p>
+			<p>text text text</p>
 			<!-- LOREM IPSUM is universally used. Lorem ipsum is dummy text, it does't really mean anything. Its used to fill space or for mockups. -->
 		</div>
 		<div class="feature">
